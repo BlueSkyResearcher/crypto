@@ -1,0 +1,77 @@
+body {
+  background: #f1f1f1;
+  padding:50px;
+}
+
+div#crypto-container {
+  background:white;
+  width: 60%;
+  margin: 0 auto 1px auto;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgrey;
+}
+
+div#selection{
+  background:white;
+  width: 60%;
+  margin: 0 auto 4px auto;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgrey;
+  text-align: center;
+}
+div#periodChart {
+  background:white;
+  width: 60%;
+  margin: 10px auto 4px auto;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgrey;
+  text-align: center;
+}
+div#convertor{
+  background:white;
+  width: 60%;
+  margin: 10px auto 10px auto;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgrey;
+  text-align: center;
+}
+div#exchanger{
+  background:white;
+  width: 60%;
+  margin: 0 auto 4px auto;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgrey;
+  text-align: center;
+}
+div#charts{
+  background:white;
+  width: 60%;
+  margin: 10px auto 4px auto;
+  padding: 1em;
+  box-shadow: 1px 1px 0 lightgrey;
+  text-align: center;
+}
+div.inputCount{
+  float:center;
+  margin: 10px auto 15px auto;
+}
+div.cardLeft{
+  display: inline-block;
+  height: 100px;
+  width:250px;
+}
+div.cardRight{
+  display: inline-block;
+  height: 100px;
+  width:250px;
+}
+input.count{
+  float:center;
+}
+span.left {
+  font-weight: bold;
+}
+
+span.right {
+  float:right;
+}
